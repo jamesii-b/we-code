@@ -1,9 +1,8 @@
 {
   "name": "code_server",
-  "type": "module",
   "version": "1.0.0",
+  "type": "module",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "build": "swc build ./src -d dist",
     "start": "node dist/server.js",
