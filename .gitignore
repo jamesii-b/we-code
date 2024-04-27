@@ -2,3 +2,4 @@ node_modules/
 dist/
 docker/
 *.py
+client_codes/
